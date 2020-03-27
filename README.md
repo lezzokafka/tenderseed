@@ -8,7 +8,7 @@ Seed nodes maintain an address book of active peers on a Tendermint p2p network.
 
 This project implements a lightweight seed node. The lightweight node maintains an address book of active peers, but **does not** relay or store blocks or transactions.
 
-Familiarity with [Tendermint network operation](https://tendermint.com/docs/tendermint-core/using-tendermint.html) is a pre-requisite to understanding how to use TenderSeed.
+Familiarity with [Tendermint network operation](https://docs.tendermint.com/master/tendermint-core/using-tendermint.html) is a pre-requisite to understanding how to use TenderSeed.
 
 ## Quickstart
 
